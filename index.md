@@ -6,13 +6,20 @@
 # Automotive
 ![20210717_230609](https://user-images.githubusercontent.com/86612097/126055296-16931e34-a344-47ac-9565-34ea9639f870.gif)
 
+# Electronics
+
+
+https://user-images.githubusercontent.com/86612097/126137554-7518a2d1-9ed9-46fe-bdd1-27a973f0da2f.mp4
 
 
 
-![20210717_174717](https://user-images.githubusercontent.com/86612097/126043537-874fa52c-0a56-4b82-bef3-9513751ae6b7.gif)
 
-# Military
-![20210718_080116](https://user-images.githubusercontent.com/86612097/126056456-5cbc14af-cf13-44f3-a5a5-3ac94b3a4800.gif)
+
+
+
+
+
+
 
 
 
