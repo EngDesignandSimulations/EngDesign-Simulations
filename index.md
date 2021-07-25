@@ -5,7 +5,7 @@
 ### Following are areas of specializations and there respective CAD and CAE files currently offered as Engineering Design and Simulation services.
 
 We use Autocad and Onshape for high precision Design ,cad formats are presented as
-### Parasolid(x_t),Sterolitography(STL), Object(obj) and Autocad(dwg)
+### Parasolid(x_t),Stereolitography(STL), Object(obj) and Autocad(dwg)
 
 
 Comsol-Multiphysics,Onscale and Simscale are our favourites for Simulations
@@ -15,6 +15,10 @@ Comsol-Multiphysics,Onscale and Simscale are our favourites for Simulations
 
 # Electronics
 ![20210718_210736](https://user-images.githubusercontent.com/86612097/126137828-25b91ad1-8963-4ff1-b513-4af4a1ccccf0.gif)
+
+# Robotics
+![20210718_161839](https://user-images.githubusercontent.com/86612097/126894147-86c20439-1990-4e12-8ee5-da9a53c266d5.gif)
+
 
 
 
