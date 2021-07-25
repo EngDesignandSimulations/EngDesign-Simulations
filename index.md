@@ -2,10 +2,10 @@
 
 ## Welcome to Eng Design&Simulation Company,Our hearts beats for Quality in Design and Simulation of Engineering products
 
-### Following are areas of specializations and there respective CAD and CAE files currently offered as Engineering Design and
-Simulation services.
+### Following are areas of specializations and there respective CAD and CAE files currently offered as Engineering Design and Simulation services.
 
-We use Autocad and Onshape for high precision Design ,cad formats are presented as ### Parasolid(x_t),Sterolitography(STL),Object(obj) and Autocad(dwg)
+We use Autocad and Onshape for high precision Design ,cad formats are presented as
+ ### Parasolid(x_t),Sterolitography(STL),Object(obj) and Autocad(dwg)
 
 
 Comsol-Multiphysics Onscale and Simscale are our favourites for Simulations
